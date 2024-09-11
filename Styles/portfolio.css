@@ -32,7 +32,19 @@
     border-radius: 5px;
     border: none;
     padding: 18px 35px;
+    margin-right: 25px;
 }
+.btn-primary-white{
+    font-weight: bold;
+    font-size: 20px;
+    color: #FD6E0A;
+    background-color: #FFF8F3;
+    border-radius: 5px;
+    border: 2px solid #FD6E0A;
+    padding: 18px 35px;
+}
+
+
 
 .section-title{
     font-weight: bold;
